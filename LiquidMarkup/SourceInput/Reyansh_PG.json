@@ -1,0 +1,10 @@
+﻿{
+  "firstname": "reyansh",
+  "lastname": "nankani",
+  "school": "phoenix greens",
+  "exam": "Annual",
+  "subjects": {
+      "english": "90",
+      "math": "100"
+    }
+}
